@@ -7,7 +7,7 @@ A webapp version of the model is available here:
 [pymeltapp.swmatthews.com](http://pymeltapp.swmatthews.com)
 
 ## dev_traces
-The dev_traces branch includes a forward model for rare-earth element concentrations in mantle melts. This is a work in progress.
+The dev_traces branch includes a forward model for rare-earth element concentrations in mantle melts. This is a work in progress, and will be implemented into pyMelt v2.0 in the near future.
 
 ## Introduction
 
